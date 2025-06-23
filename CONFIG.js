@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Chào cậu, tớ có điều muốn nói. </br> Làm người yêu tớ nhé!",
+  titleHeader: "Bybo, aku cuma mau bilang sesuatu...</br> yang selalu aku rasakan setiap hari.",
   descriptionHeader:
-    "Hãy trả lời một cách thật lòng nhé. Nếu cậu im lặng và rời đi thì tức là cậu đã ĐỒNG Ý.",
-  buttonYes: "Tớ đồng ý",
-  buttonNo: "Không đồng ý",
-  titleModar: "Cảm ơn cậu.",
+    "Baca dengan perlahan ya. Kalau kamu senyum, itu artinya kamu juga merasakannya 🥺💖",
+  buttonYes: "Baca",
+  buttonNo: "Gamau Baca Ahh...",
+  titleModar: "Terima kasih karena kamu ada.",
   descriptionModar:
-    "Cảm ơn cậu đã cho tớ một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cậu. </br> Tớ biết tớ không được đẹp trai, cũng chẳng lắm tài nhưng tớ có một trái tim chân thành. Cậu chính là cả thế giới của tớ. </br> Tối nay tớ sẽ đến đón cậu. Cậu mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho cậu.</br> Love you <3",
+    "Terima kasih karena sudah hadir di hidupku dan tetap bertahan sejauh ini. </br> Setiap hari bersamamu adalah anugerah yang nggak pernah aku anggap remeh. </br> Kamu adalah rumah, tempat aku bisa jadi diri sendiri tanpa takut dihakimi. </br> Terima kasih sudah mencintaiku dengan caramu yang paling indah. </br> Apapun yang terjadi nanti, aku ingin kita tetap bersama, saling menggenggam erat. </br> Aku cinta kamu, hari ini, besok, dan selamanya. 💌",
 };

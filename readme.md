@@ -1,30 +1,58 @@
-# Trang web tỏ tình crush cực kỳ lãng mạn
+# Website Nembak Crush yang Sangat Romantis 💖
 
-Link Demo: https://andyngojs.github.io/crush-love
+Versi terjemahan dan panduan dari proyek asli **crush-love**.
 
-## Connect with us
-Nếu trong quá trình gặp lỗi, các bạn join cộng đồng trên Discord để được support nhé!
+🔗 **Tautan Demo Asli**: [https://andyngojs.github.io/crush-love](https://andyngojs.github.io/crush-love)
 
-**Discord**: [DOBEETEAM Community](https://discord.gg/uVTGzxKFFk)
+---
 
-## Cách sử dụng:
+## 🎯 Terhubung dengan Komunitas
 
-Nếu bạn muốn dùng web này theo cách của bạn hoặc muốn đưa lên host riêng của bạn để gửi cho người thầm thương nhớ của bạn thì hãy đọc hướng dẫn sử dụng này.
+Jika kamu mengalami masalah saat proses pengerjaan, silakan bergabung dengan komunitas **DOBEETEAM** di Discord untuk mendapatkan bantuan!
 
-**Note**: Nếu các bạn không thích động tay động chân thì dùng luôn link demo ở phía trên.
+🗨️ **Discord**: *Komunitas DOBEETEAM*
 
-Bước 1: Click vào `Fork` để clone repo này về github của bạn.
+---
 
-Bước 2: Vào trang cá nhân github của bạn và chuyển sang tab Repositories. Sẽ nhìn thấy repo mà bạn vừa Fork về và click vào repo đó
+## 📌 Cara Penggunaan
 
-Bước 3: Vào file CONFIG.js và click vào icon cây bút để edit thay đổi nội dung trong phần `CONFIGDATA`
+Kalau kamu ingin menggunakan website ini dengan caramu sendiri atau mengunggahnya ke hosting milikmu untuk dikirimkan kepada seseorang yang kamu sayangi, ikuti panduan berikut:
 
-Sau khi thay đổi xong thì lướt xuống dưới và click vào Commit change để lưu lại.
+> **Catatan**: Kalau kamu tidak mau repot, cukup gunakan [tautan demo](https://andyngojs.github.io/crush-love) dan kirimkan langsung ke si dia! 😉
 
-Bước 4: Chuyển sang tab Setting và lướt xuống dưới thấy chữ Github Page thì click vào `check it out here` và chọn nhánh Main rồi click Save.
+---
 
-Ngồi chờ 5 phút đợi web của bạn tải lên sau đó sẽ hiện link trang web bạn click vào link đó và tận hưởng thành quả gửi cho crush thôi.
+### 🔧 Langkah 1: Fork Repositori
 
-Chúc các bạn thành công!
+1. Kunjungi halaman repositori asli.
+2. Klik tombol **Fork** di pojok kanan atas untuk menyalin proyek ke akun GitHub kamu.
 
-Nếu thấy hay thì hãy follow và cho mình 1 star cho repo này nhé. Cảm ơn các bạn!
+---
+
+### 📂 Langkah 2: Buka Repositori Hasil Fork
+
+1. Masuk ke profil GitHub kamu.
+2. Buka tab **Repositories**.
+3. Klik repositori bernama `crush-love` yang telah kamu fork.
+
+---
+
+### 📝 Langkah 3: Ubah Konfigurasi
+
+1. Cari dan buka file `CONFIG.js`.
+2. Klik ikon pensil 🖉 (Edit file).
+3. Ubah teks di dalam `CONFIGDATA` sesuai keinginanmu, contohnya:
+
+```js
+const CONFIGDATA = {
+    title: 'Hai Cantik, Aku ada pertanyaan nih!',
+    desc: 'Kalau aku ajak kamu jalan, kamu mau gak?',
+    btnYes: 'Mau banget <3',
+    btnNo: 'Enggak ah :(',
+    question: 'Beneran mau kan? Gak nyesel kan?',
+    link: 'https://www.instagram.com/akun_instagram_kamu', // Tautan saat tombol "Ya" diklik
+    mess: 'Aku tahu kamu pasti mau kok hehe >.<',
+    messDesc: 'Sekarang chat aku ya buat atur jadwalnya.',
+    btnAccept: 'Oke, siappp!',
+    messLink: 'https://wa.me/628123456789' // Tautan WhatsApp atau media sosial lain
+};

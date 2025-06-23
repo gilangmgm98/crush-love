@@ -1,7 +1,3 @@
-/*
- * RequestAnimationFrame polyfill by Erik Möller
- */
-
 (function () {
   var b = 0;
   var c = ["ms", "moz", "webkit", "o"];
